@@ -4,5 +4,5 @@
 ## Technology & Tools used
 * Java
 * Maven 
-* Intellij
+* Apache Netbeans
 * Payara6
